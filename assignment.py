@@ -4,7 +4,7 @@ from sudokugame import *
 def main():
     inputdata=Input('sudokusamples.txt')
     #Όταν έχετε έτοιμο τον κώδικα για το Input function διαγράφεται την παρακάτω γραμμή
-    print("hello world")
+
     for sudoku in inputdata:
        print(f'Sequence used:{sudoku}\n')
        Formatter(sudoku)
