@@ -66,7 +66,7 @@ def FormatMarking(markers):
 
 gap=13
 def CmdMarking(sudokustr):
-    # markers-->dictionary
+
     # Start with printing results
     data=ToBoard(sudokustr)
     searchmark=FormatMarking(mark(sudokustr))
