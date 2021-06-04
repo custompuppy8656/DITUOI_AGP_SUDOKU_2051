@@ -2,7 +2,7 @@ import unittest as un
 import sys
 
 sys.path.append('..')
-from sudoku import SolveSudoku
+from sudokugame import SolveSudoku
 
 
 class test(un.TestCase):

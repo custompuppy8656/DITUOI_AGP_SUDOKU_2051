@@ -3,9 +3,9 @@ import math
 from ortools.sat.python import cp_model
 
 def Input(filename):
-    # Here you will insert the sequences you want to use
-    # File you can use https://raw.githubusercontent.com/vasnastos/DITUOI_AGP_SUDOKU/main/RESOURCES/sudokusequence.input?token=APD2HAL7LD3PY3ZC7HHFPV3AXBTJM
-    return list()
+    filename=open("sudokusamples.txt")
+
+    return list(filename)
 
 #Converts a sudoku sequence into a list
 def ToBoard(rawdata:str)->list:
@@ -105,7 +105,10 @@ def SolveSudoku(sudokustr):
             for column in range9:
                 solution = solution + str(solver.Value(cells[row, column]))
     return solution
-
+if __name__ == "__main__":
+            sudoku = "070000043040009610800634900094052000358460020000800530080070091902100005007040802"
+            solution = SolveSudoku(sudoku)
+            Formatter(solution)
 
 
 
