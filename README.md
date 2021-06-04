@@ -17,14 +17,17 @@ LINK ΚΩΔΙΚΑ:
 
 ![Στιγμιότυπο οθόνης (39)](https://user-images.githubusercontent.com/65713677/120868182-1acacb00-c59c-11eb-8c45-3fb0c8344b72.png)
 και η λυση του με τα OR-TOOLS
+
 ![Στιγμιότυπο οθόνης (40)](https://user-images.githubusercontent.com/65713677/120868187-20281580-c59c-11eb-8871-8368fd038ae4.png)
 
 
 Στο δευτερο αλφαριθμητικο
 
 Ο πρωτος πινακας ειναι το σχημα του προβληματος και ο δευτερος τα pencil mark:
+
 ![Στιγμιότυπο οθόνης (38)](https://user-images.githubusercontent.com/65713677/120868207-2f0ec800-c59c-11eb-991f-b168db849fed.png)
 
 και η λυση του με τα OR-TOOLS
+
 ![Στιγμιότυπο οθόνης (37)](https://user-images.githubusercontent.com/65713677/120868214-333ae580-c59c-11eb-92bd-a30e8510fe1b.png)
 
