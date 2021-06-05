@@ -17,7 +17,7 @@
 * Προεπισκόπιση προβλήματος
 
 ![Στιγμιότυπο οθόνης (39)](https://user-images.githubusercontent.com/65713677/120868182-1acacb00-c59c-11eb-8c45-3fb0c8344b72.png)
-και η λυση του με τα OR-TOOLS
+
 
 * Pencil Marks
 
